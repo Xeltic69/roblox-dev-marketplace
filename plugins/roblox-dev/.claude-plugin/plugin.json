@@ -1,0 +1,8 @@
+{
+  "name": "roblox-dev",
+  "version": "0.1.0",
+  "description": "Roblox game development for Claude Code: system/API architecture conventions, Studio MCP working pattern, audits, persistence, economy, UI, analytics, discovery and growth, with namespaced commands.",
+  "author": { "name": "Xeltic69" },
+  "license": "MIT",
+  "keywords": ["roblox", "luau", "game-development", "roblox-studio", "mcp"]
+}
